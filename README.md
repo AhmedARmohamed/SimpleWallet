@@ -38,6 +38,7 @@ However for crypto installation, type go get golang.org/x/crypto .
 Getting Started.
 
 Environment variables.
+
 Create a postgres database to store data. 
 
 The .env file keeps the database credentials and secrets like the secret for signing jwt tokens.
