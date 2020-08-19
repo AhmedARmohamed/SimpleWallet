@@ -21,8 +21,8 @@ Environment variables
 Create a database and create a .env from the .env-sample and replace its values with the actual values.
 
 Running application
-Change directory into wallet then
+Change directory into SimpleWallet then
 
 $ go run main.go
-API endpoint can be accessed. Via http://localhost:8010/
+API endpoint can be accessed. Via http://localhost:8020/
 
