@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"wallet/api/models"
 	"wallet/api/responses"
-	"wallet/api/utils"
+	"wallet/utils"
 )
 
 // UserSignUp controller for creating new users

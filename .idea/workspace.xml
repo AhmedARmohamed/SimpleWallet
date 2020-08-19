@@ -33,6 +33,34 @@
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="SimpleWallet" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$" />
+      <package value="wallet" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="SimpleWallet" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <package value="wallet" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
@@ -45,9 +73,10 @@
       <screen x="1440" y="-191" width="1680" height="1027" />
     </state>
     <state x="1988" y="-113" width="584" height="870" key="find.popup/0.23.1440.877/1440.-191.1680.1027@1440.-191.1680.1027" timestamp="1597227858689" />
-    <state x="-1175" y="162" width="670" height="676" key="search.everywhere.popup" timestamp="1597749806047">
-      <screen x="-1680" y="-71" width="1680" height="1050" />
+    <state x="2017" y="201" width="766" height="696" key="search.everywhere.popup" timestamp="1597829044672">
+      <screen x="1440" y="-39" width="1920" height="1080" />
     </state>
     <state x="-1175" y="162" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/-1680.-71.1680.1050@-1680.-71.1680.1050" timestamp="1597749806047" />
+    <state x="2017" y="201" width="766" height="696" key="search.everywhere.popup/0.23.1440.877/1440.-39.1920.1080@1440.-39.1920.1080" timestamp="1597829044672" />
   </component>
 </project>
