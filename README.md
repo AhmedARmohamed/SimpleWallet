@@ -68,7 +68,7 @@ Endpoints that are used in this project include:
     
     GET	/api/balance/id	        View Balance
     
-    POST	/api/wallet/id	    Withdraw money from the  Wallet ( amount )
+    POST	/api/withdraw/id	    Withdraw money from the  Wallet ( amount )
     
 
 Running application
