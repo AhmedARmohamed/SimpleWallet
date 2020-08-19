@@ -1,5 +1,8 @@
 SimpleWallet is simple wallet service.
+
+
 Features include: 
+
     1: User Registration and login.
     2: Wallet Creation.
     3: Deposit.
