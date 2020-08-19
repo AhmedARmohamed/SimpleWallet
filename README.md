@@ -12,7 +12,8 @@ Features include:
 Installation.
 Should have Go and Postgres installed
 
-clone the repository.
+Clone the repository.
+
 git clone https://github.com/AhmedARmohamed/SimpleWallet.git
 
 
