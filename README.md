@@ -21,9 +21,13 @@ Getting the Dependencies used in th project.
 These are the package dependecies we will need.
 
     badoux/checkmail - for validating user emails.
+    
     dgrijalva/jwt-go - to sign and verify jwt tokens.
+    
     gorilla/mux - it is a router and dispatcher, for matching URLs to their handlers.
+    
     crypto - to hash and verify user passwords.
+    
     github.com/lib/pq - postgres database drive
 
 To install these dependencies, open the terminal and type go get github.com/{package-name}
@@ -52,12 +56,19 @@ Endpoints that are used in this project include:
 
     
     Request	Endpoints	Functionality
-    POST	/register	User Signup ( firstname, lastname, email, password)
-    POST	/login	User Login ( email, password)
-    POST	/api/wallet	Add wallet ( amount)
-    POST	/api/deposit/id	deposit money to the wallet ( amount )
-    GET	/api/balance/id	View Balance
-    POST	/api/wallet/id	Withdraw money from the  Wallet ( amount )
+    
+    POST	/register	        User Signup ( firstname, lastname, email, password)
+    
+    POST	/login	            User Login ( email, password)
+    
+    POST	/api/wallet	        Add wallet ( amount)
+    
+    POST	/api/deposit/id	    deposit money to the wallet ( amount )
+    
+    GET	/api/balance/id	        View Balance
+    
+    POST	/api/wallet/id	    Withdraw money from the  Wallet ( amount )
+    
 
 Running application
 Change directory into SimpleWallet then
